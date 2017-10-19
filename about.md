@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Work experience
+## Work Experience
 
 * 2017 Oct ~
   * Research Fellow

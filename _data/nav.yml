@@ -1,5 +1,11 @@
-- name: "Contact"
-  link: "contact"
+- name: "学术成果"
+  link: "publication_cn"
+
+- name: "简介"
+  link: "about_cn"
+
+- name: "主页"
+  link: "home_cn"
 
 - name: "Publication"
   link: "publication"
