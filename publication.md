@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Please also see [Google Scholar](https://scholar.google.com/citations?user=2eX_3XEAAAAJ&hl=zh-CN&authuser=1). All articles that can be downloaded from this page are accepted versions, not final published versions.
+You may also see my record in [Google Scholar](https://scholar.google.com/citations?user=2eX_3XEAAAAJ&hl=zh-CN&authuser=1). 
 
 ## Refereed Journal Papers
 

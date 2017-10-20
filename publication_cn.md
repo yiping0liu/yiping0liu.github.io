@@ -2,6 +2,8 @@
 layout: default
 ---
 
+您也可访问我的[谷歌学术主页](https://scholar.google.com/citations?user=2eX_3XEAAAAJ&hl=zh-CN&authuser=1)
+
 ## 期刊论文
 
 ### 2017
@@ -22,7 +24,7 @@ layout: default
 
 ### 2015
 
-* 巩敦卫, **Yiping Liu (通信作者)**, 孙晓燕, 韩玉艳. **基于目标分解的高维多目标并行进化优化方法.** 自动化学报. 41(8), 1438-1451. (影响因子: 1.94) [(pdf)](pdf/moeapd.pdf)
+* 巩敦卫, **刘益萍 (通信作者)**, 孙晓燕, 韩玉艳. **基于目标分解的高维多目标并行进化优化方法.** 自动化学报. 41(8), 1438-1451. (影响因子: 1.94) [(pdf)](pdf/moeapd.pdf)
 
 * Dunwei Gong, **Yiping Liu (通信作者)**,  Xinfang Ji, and Jing Sun. **Evolutionary algorithms with user’s preferences for solving hybrid interval multi-objective optimization problems.** Applied Intelligence, 2015, 43(3), 676-694. (影响因子: 1.90) [(pdf)](pdf/ApInt.pdf)
 
