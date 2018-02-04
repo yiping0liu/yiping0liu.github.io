@@ -42,6 +42,7 @@ layout: default
 * 期刊特约审稿人
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
+  * IEEE Transactions on Emerging Topics in Computational Intelligence
   * Information Science
   * Swarm and Evolutionary Computation
   * Soft Computing

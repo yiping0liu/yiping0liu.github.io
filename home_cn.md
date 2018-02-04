@@ -5,9 +5,9 @@ layout: default
 ## 刘益萍，博士
 <img class="profile-picture" src="ping.jpg">
 * 职称: 研究助理教授
-* 单位: [工学域 情報工学課程](http://www.cs.osakafu-u.ac.jp/dept), [大阪府立大学](http://www.osakafu-u.ac.jp/en/)
+* 单位: [大阪府立大学](http://www.osakafu-u.ac.jp/en/), 工学域, 情報工学課程, [计算智能研究室](http://www.cs.osakafu-u.ac.jp/ci/EnglishPage/index_e.php)
 * 地址: 日本大阪堺市中区学園町1番1号，599-8531
-* 邮箱: yiping0liu [at] gmail.com
+* 邮箱: yiping0liu [at] gmail.com; yiping.liu [at] cs.osakafu-u.ac.jp
 * [谷歌学术主页](https://scholar.google.com/citations?user=2eX_3XEAAAAJ&hl=zh-CN&authuser=1)
 
 ## 个人简介

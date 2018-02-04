@@ -5,7 +5,7 @@ layout: default
 ## Work Experience
 
 * 2018 Jan ~
-  * Research Assistant Professor
+  * Project Research Assistant Professor
   * Department of Computer Science and Intelligent Systems
   * Osaka Prefecture University
   * with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/) and [Prof. Yusuke Nojima](http://www.cs.osakafu-u.ac.jp/~nojima/)
@@ -42,6 +42,7 @@ layout: default
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
+  * IEEE Transactions on Emerging Topics in Computational Intelligence
   * Information Science
   * Swarm and Evolutionary Computation
   * Soft Computing
