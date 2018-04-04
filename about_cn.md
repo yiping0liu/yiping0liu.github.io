@@ -6,7 +6,7 @@ layout: default
 
 * 2018年1月 ~
   * 研究助理教授
-  * 工学域 情報工学課程
+  * 大学院 工学研究科 计算机科学与智能系统系
   * 大阪府立大学
   * 合作者：[Hisao Ishibuchi教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)，[Yusuke Nojima副教授](http://www.cs.osakafu-u.ac.jp/~nojima/)
 

@@ -5,9 +5,9 @@ layout: default
 ## Work Experience
 
 * 2018 Jan ~
-  * Project Research Assistant Professor
+  * Research Assistant Professor
   * Department of Computer Science and Intelligent Systems
-  * Osaka Prefecture University
+  * Graduate School of Engineering, Osaka Prefecture University
   * with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/) and [Prof. Yusuke Nojima](http://www.cs.osakafu-u.ac.jp/~nojima/)
 
 ## Education
@@ -46,3 +46,6 @@ layout: default
   * Information Science
   * Swarm and Evolutionary Computation
   * Soft Computing
+
+* Program Committee Member
+  * GECCO: 2018

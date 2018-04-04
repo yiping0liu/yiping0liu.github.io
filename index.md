@@ -4,7 +4,7 @@ layout: default
 
 ## Yiping Liu, Dr.
 <img class="profile-picture" src="ping.jpg">
-* Position: Project Research Assistant Professor
+* Position: Research Assistant Professor
 * Affiliation:
 [Computational Intelligence Laboratory](http://www.cs.osakafu-u.ac.jp/ci/EnglishPage/index_e.php),
 Department of Computer Science and Intelligent Systems, Graduate School of Engineering, [Osaka Prefecture University](http://www.osakafu-u.ac.jp/en/)
@@ -14,7 +14,7 @@ Department of Computer Science and Intelligent Systems, Graduate School of Engin
 
 ## Short Biography
 
-I am currently a project research assistant professor at Osaka Prefecture University (OPU) with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/) and [Prof. Yusuke Nojima](http://www.cs.osakafu-u.ac.jp/~nojima/). Before that, I received the Ph.D. and B.S. degrees in Engineering from China University of Mining and Technology (CUMT) in 2017 and 2012, respectively. During 2016 to 2017, I was also a joint Ph.D. candidate at Oklahoma State University (OSU) with [Prof. Gary G. Yen](http://isc.okstate.edu/).
+I am currently a research assistant professor at Osaka Prefecture University in Japan with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/) and [Prof. Yusuke Nojima](http://www.cs.osakafu-u.ac.jp/~nojima/). Before that, I received the Ph.D. and B.S. degrees in Engineering from China University of Mining and Technology (CUMT) in 2017 and 2012, respectively. During 2016 to 2017, I was a joint Ph.D. student at Oklahoma State University in USA with [Prof. Gary G. Yen](http://isc.okstate.edu/).
 
 ## Research Interest
 
