@@ -1,17 +1,8 @@
-- name: "学术成果"
-  link: "publication_cn"
+- name: "日本語"
+  link: "JapaneseVersion"
 
-- name: "简介"
-  link: "about_cn"
+- name: "中文"
+  link: "ChineseVersion"
 
-- name: "主页"
-  link: "home_cn"
-
-- name: "Publication"
-  link: "publication"
-
-- name: "About"
-  link: "about"
-
-- name: "Home"
-  link: "/"
+- name: "English"
+  link: "index"

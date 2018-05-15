@@ -46,6 +46,8 @@ layout: default
   * Information Science
   * Swarm and Evolutionary Computation
   * Soft Computing
+  * Mathematics and Computers in Simulation
+  * Natural Hazards
 
 * Program Committee Member
-  * GECCO: 2018
+  * GECCO 2018
