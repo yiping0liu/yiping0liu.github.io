@@ -71,6 +71,9 @@ layout: default
   * GECCO 2018
   * AAAI 2019
 
+* Editorial Board Member
+  * Journal of Liaocheng University (Natural Science Edition)
+
 * 所属学会
   * ACM SIGEVO
   * IEEE CIS
@@ -83,14 +86,16 @@ layout: default
   * **Yiping Liu**, Gary G. Yen, Dunwei Gong. **A Multi-Modal Multi-Objective Evolutionary Algorithm Using Two-Archive and Recombination Strategies.** IEEE Transactions on Evolutionary Computation. Early Access, DOI: 10.1109/TEVC.2018.2879406. [(pdf)](pdf/TriMOEA-TA&R.pdf)
     * The source code can be downloaded from [here](https://github.com/yiping0liu/TriMOEA-TAnR)
 
+  * Dunwei Gong, **Yiping Liu (corresponding author)**,  Gary G. Yen. **A meta-objective approach for many-objective evolutionary optimization.** Evolutionary Computation. to be published.
+  [(pdf)](pdf/MeO.pdf)
+    * The source code can be downloaded from [here](https://github.com/yiping0liu/MeO)
+
 * 2017
   * **Yiping Liu**, Dunwei Gong, Jing Sun, and Yaochu Jin. **A many-objective evolutionary algorithm using a one-by-one selection strategy.** IEEE Transactions on Cybernetics, 2017, 47(9): 2689-2702. [(pdf)](pdf/1by1EA.pdf)
     * The source code can be downloaded from [here](https://github.com/yiping0liu/1by1EA)
 
   * **Yiping Liu**, Dunwei Gong, Xiaoyan Sun, and Yong Zhang. **Many-objective evolutionary optimization based on reference points.** Applied Soft Computing, 2017, 50(1), 344-355. [(pdf)](pdf/RPEA.pdf)
     * The source code can be downloaded from [here](https://github.com/yiping0liu/RPEA)
-
-  * Dunwei Gong, **Yiping Liu (corresponding author)**,  Gary G. Yen. **A meta-objective approach for many-objective evolutionary optimization.** Evolutionary Computation. under review.
 
 * 2016
 
@@ -118,4 +123,4 @@ layout: default
 
   * **Yiping Liu**, Dunwei Gong, Xiaoyan Sun, and Yong Zhang. **A reference points-based evolutionary algorithm for many-objective optimization.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2014).
 
-##### Last update: Nov 5, 2018
+##### Last update: Nov 13, 2018
