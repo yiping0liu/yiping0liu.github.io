@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Yiping Liu, Dr.
+## Yiping Liu, Dr.-Ing.
 <img class="profile-picture" src="ping.jpg">
 * Position: Research Assistant Professor
 * Affiliation:
@@ -31,24 +31,24 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 ## Education
 
 * 2012 Sep ~ 2017 Dec
-  * Ph.D.
+  * Dr.-Ing.
   * Control Theory and Control Engineering
   * China University of Mining and Technology
   * Thesis: Many-Objective Evolutionary Optimization: Theory and Method (in Chinese)
 * 2008 Sep ~ 2012 Jun
-  * B.S.
+  * BEng
   * Electrical Engineering and Automation
   * China University of Mining and Technology
 
 ## Research Stay
 
 * 2017 Oct ~ 2017 Nov
-  * Visiting Researcher
+  * Visiting Scholar
   * Department of Computer Science and Engineering
   * Southern University of Science and Technology
   * with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/)
 * 2016 Aug ~ 2017 Sep
-  * Joint Ph.D.
+  * Joint Ph.D. (Visiting Scholar)
   * Electrical and Computer Engineering
   * Oklahoma State University
   * Advisor: [Prof. Gary G. Yen](http://isc.okstate.edu/)
@@ -68,8 +68,12 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
   * Natural Hazards
 
 * Program Committee Member
-  * GECCO 2018
+  * GECCO 2018,2019
+  * CEC 2018, 2019
   * AAAI 2019
+
+* Guest Associate Editor
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE);
 
 * Editorial Board Member
   * Journal of Liaocheng University (Natural Science Edition)

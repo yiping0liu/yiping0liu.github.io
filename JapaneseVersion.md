@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## 劉益萍，博士 (学術)
+## 劉益萍，工学博士 (学術)
 <img class="profile-picture" src="ping.jpg">
 * 身分: 研究助教
 * 所属: [大阪府立大学](http://www.osakafu-u.ac.jp/en/), 大学院 工学研究科, 電気・情報系専攻　知能情報工学分野, [計算知能工学研究室](http://www.cs.osakafu-u.ac.jp/ci/EnglishPage/index_e.php)
@@ -48,7 +48,7 @@ layout: default
   * 南方科技大学
   * with [石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)
 * 2016年8月 ~ 2017年9月
-  * Joint Ph.D.
+  * Joint Ph.D. (Visiting Scholar)
   * Electrical and Computer Engineering
   * Oklahoma State University
   * 指導教員：[Gary G. Yen教授](http://isc.okstate.edu/)
@@ -68,8 +68,12 @@ layout: default
   * Natural Hazards
 
 * Program Committee Member
-  * GECCO 2018
+  * GECCO 2018,2019
+  * CEC 2018, 2019
   * AAAI 2019
+
+* Guest Associate Editor
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE);
 
 * Editorial Board Member
   * Journal of Liaocheng University (Natural Science Edition)

@@ -66,8 +66,12 @@ layout: default
   * Natural Hazards
 
 * 会议程序委员
-  * GECCO 2018
+  * GECCO 2018,2019
+  * CEC 2018, 2019
   * AAAI 2019
+
+* 客座副编
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE);
 
 * 编委
   * 聊城大学学报 (自然科学版)
