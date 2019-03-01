@@ -53,7 +53,7 @@ layout: default
 
 ## 学术兼职
 
-* 期刊特约审稿人
+* 期刊审稿人
   * IEEE Transactions on Evolutionary Computation
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Emerging Topics in Computational Intelligence
@@ -65,16 +65,13 @@ layout: default
   * Mathematics and Computers in Simulation
   * Natural Hazards
 
-* 会议程序委员
+* 会议程序成员
   * GECCO 2018,2019
   * CEC 2018, 2019
   * AAAI 2019
 
-* 客座副编
-  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE);
-
-* 编委
-  * 聊城大学学报 (自然科学版)
+* 客座副编辑
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
 * 所属学会
   * ACM SIGEVO
@@ -88,8 +85,8 @@ layout: default
   * **Yiping Liu**, Gary G. Yen, Dunwei Gong. **A Multi-Modal Multi-Objective Evolutionary Algorithm Using Two-Archive and Recombination Strategies.** IEEE Transactions on Evolutionary Computation. Early Access, DOI: 10.1109/TEVC.2018.2879406. (影响因子: 8.124) [(pdf)](pdf/TriMOEA-TA&R.pdf)
     * [源码下载](https://github.com/yiping0liu/TriMOEA-TAnR)
 
-  * Dunwei Gong, **Yiping Liu (corresponding author)**,  Gary G. Yen. **A meta-objective approach for many-objective evolutionary optimization.** Evolutionary Computation. to be published. (影响因子: 2.388) [(pdf)](pdf/MeO.pdf)
-    * [源码下载](https://github.com/yiping0liu/MeO)
+  * Dunwei Gong, **Yiping Liu (通信作者)**,  Gary G. Yen. **A meta-objective approach for many-objective evolutionary optimization.** Evolutionary Computation. Early Access,  DOI: 10.1162/evco_a_00243. (影响因子: 2.388) [(pdf)](pdf/MeO.pdf)
+      * The source code can be downloaded from [here](https://github.com/yiping0liu/MeO)
 
 * 2017
 

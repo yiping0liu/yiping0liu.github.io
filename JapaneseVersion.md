@@ -73,10 +73,8 @@ layout: default
   * AAAI 2019
 
 * Guest Associate Editor
-  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE);
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
-* Editorial Board Member
-  * Journal of Liaocheng University (Natural Science Edition)
 
 * 所属学会
   * ACM SIGEVO
@@ -90,9 +88,8 @@ layout: default
   * **Yiping Liu**, Gary G. Yen, Dunwei Gong. **A Multi-Modal Multi-Objective Evolutionary Algorithm Using Two-Archive and Recombination Strategies.** IEEE Transactions on Evolutionary Computation. Early Access, DOI: 10.1109/TEVC.2018.2879406. [(pdf)](pdf/TriMOEA-TA&R.pdf)
     * The source code can be downloaded from [here](https://github.com/yiping0liu/TriMOEA-TAnR)
 
-  * Dunwei Gong, **Yiping Liu (corresponding author)**,  Gary G. Yen. **A meta-objective approach for many-objective evolutionary optimization.** Evolutionary Computation. to be published.
-  [(pdf)](pdf/MeO.pdf)
-    * The source code can be downloaded from [here](https://github.com/yiping0liu/MeO)
+  * Dunwei Gong, **Yiping Liu (corresponding author)**,  Gary G. Yen. **A meta-objective approach for many-objective evolutionary optimization.** Evolutionary Computation. Early Access,  DOI: 10.1162/evco_a_00243. [(pdf)](pdf/MeO.pdf)
+      * The source code can be downloaded from [here](https://github.com/yiping0liu/MeO)
 
 * 2017
   * **Yiping Liu**, Dunwei Gong, Jing Sun, and Yaochu Jin. **A many-objective evolutionary algorithm using a one-by-one selection strategy.** IEEE Transactions on Cybernetics, 2017, 47(9): 2689-2702. [(pdf)](pdf/1by1EA.pdf)
