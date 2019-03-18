@@ -12,7 +12,7 @@ layout: default
 
 ## 个人简介
 
-目前，为日本大阪府立大学研究助理教授（合作者：[Hisao Ishibuchi教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)，[Yusuke Nojima副教授](http://www.cs.osakafu-u.ac.jp/~nojima/)）。分别于2017年和2012年，获中国矿业大学工学博士和学士学位。2016至2017年，为美国俄克拉荷马州立大学联合培养博士生（导师：[Gary G. Yen教授](http://isc.okstate.edu/)）。
+目前为日本大阪府立大学研究助理教授。分别于2017年和2012年，获中国矿业大学工学博士和学士学位。2016至2017年，为美国俄克拉荷马州立大学联合培养博士生。
 
 ## 研究兴趣
 
