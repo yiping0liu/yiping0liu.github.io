@@ -2,58 +2,58 @@
 layout: default
 ---
 
-## Yiping Liu, Dr.-Ing.
+## 劉益萍，工学博士 (学術)
 <img class="profile-picture" src="ping.jpg">
-* Position: Research Assistant Professor
-* Affiliation:
-[Computational Intelligence Laboratory](http://www.cs.osakafu-u.ac.jp/ci/EnglishPage/index_e.php),
-Department of Computer Science and Intelligent Systems, Graduate School of Engineering, [Osaka Prefecture University](http://www.osakafu-u.ac.jp/en/)
-* Address: 1-1 Gakuen-cho, Sakai, Osaka 599-8531, Japan
-* E-mail: yiping0liu [at] gmail.com; yiping.liu [at] cs.osakafu-u.ac.jp
+* 身分: 研究助教
+* 所属: [大阪府立大学](http://www.osakafu-u.ac.jp/en/), 大学院 工学研究科, 電気・情報系専攻　知能情報工学分野, [計算知能工学研究室](http://www.cs.osakafu-u.ac.jp/ci/EnglishPage/index_e.php)
+* オフィス: 日本大阪府堺市中区学園町1番1号，599-8531
+* 邮箱: yiping0liu [at] gmail.com; yiping.liu [at] cs.osakafu-u.ac.jp
 * [Google Scholar](https://scholar.google.com/citations?user=2eX_3XEAAAAJ&hl)
 
-## Short Biography
+## 略歴
 
-I am currently a research assistant professor at Osaka Prefecture University in Japan with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/) and [Prof. Yusuke Nojima](http://www.cs.osakafu-u.ac.jp/~nojima/). Before that, I received the Ph.D. and B.S. degrees in Engineering from China University of Mining and Technology (CUMT) in 2017 and 2012, respectively. During 2016 to 2017, I was a joint Ph.D. student at Oklahoma State University in USA with [Prof. Gary G. Yen](http://isc.okstate.edu/).
+2018年1月から，日本大阪府立大学にて研究助教 として勤務しています。[石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)と[能島裕介准教授](http://www.cs.osakafu-u.ac.jp/~nojima/)研究室所属です。2012年6月に中国鉱業大学を卒業，2017年12月に中国鉱業大学博士課程を修了しました，博士(学術)を取りました。
 
-## Research Interest
 
-Computational Intelligence, Evolutionary Computation, Multi-Objective Optimization, Machine Learning
+## 研究の興味
 
-## Work Experience
+計算知能，進化計算，多目的最適化，機械学習
 
-* 2018 Jan ~
-  * Research Assistant Professor
-  * Department of Computer Science and Intelligent Systems
-  * Graduate School of Engineering, Osaka Prefecture University
-  * with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/) and [Prof. Yusuke Nojima](http://www.cs.osakafu-u.ac.jp/~nojima/)
+## 職歴
 
-## Education
+* 2018年1月 ~
+  * 研究助教
+  * 大学院 工学研究科
+  * 電気・情報系専攻　知能情報工学分野
+  * 日本大阪府立大学
+  * with [石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)，[能島裕介准教授](http://www.cs.osakafu-u.ac.jp/~nojima/)
 
-* 2012 Sep ~ 2017 Dec
-  * Dr.-Ing.
-  * Control Theory and Control Engineering
-  * China University of Mining and Technology
-  * Thesis: Many-Objective Evolutionary Optimization: Theory and Method (in Chinese)
-* 2008 Sep ~ 2012 Jun
-  * BEng
-  * Electrical Engineering and Automation
-  * China University of Mining and Technology
+## 学歴
+
+* 2012年9月 ~ 2017年12月
+  * 博士課程 修了
+  * 制御理論と制御工学
+  * 中国鉱業大学
+  * 博士論文: 高次元多目的進化最適化理論とその方法 (中国語)
+* 2008年9月 ~ 2012年6月
+  * 卒業
+  * 電気工学と自動化
+  * 中国鉱業大学
 
 ## Research Stay
 
-* 2017 Oct ~ 2017 Nov
-  * Visiting Scholar
-  * Department of Computer Science and Engineering
-  * Southern University of Science and Technology
-  * with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/)
-* 2016 Aug ~ 2017 Sep
-  * Visiting Scholar
+* 2017年10月 ~ 2017年11月
+  * 客員研究員
+  * 计算机科学与工程
+  * 南方科技大学
+  * with [石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)
+* 2016年8月 ~ 2017年9月
+  * 客員研究員
   * Electrical and Computer Engineering
   * Oklahoma State University
-  * with [Prof. Gary G. Yen](http://isc.okstate.edu/)
+  * with [Gary G. Yen教授](http://isc.okstate.edu/)
 
-## Professional Activities/Service
+## 学会活動歴
 
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
@@ -76,11 +76,12 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 * Guest Associate Editor
   * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
-* Society Member
+
+* 所属学会
   * ACM SIGEVO
   * IEEE CIS
 
-## Publications
+## パブリケーション
 
 ### Refereed Journal Papers
 

@@ -1,8 +1,8 @@
 - name: "日本語"
-  link: "JapaneseVersion"
+  link: "Japanese"
 
 - name: "中文"
-  link: "ChineseVersion"
+  link: "Chinese"
 
 - name: "English"
   link: "index"
