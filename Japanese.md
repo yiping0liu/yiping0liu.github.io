@@ -4,7 +4,7 @@ layout: default
 
 ## 劉益萍，工学博士 (学術)
 <img class="profile-picture" src="ping.jpg">
-* 身分: 研究助教
+* 身分: 特認助教
 * 所属: [大阪府立大学](http://www.osakafu-u.ac.jp/en/), 大学院 工学研究科, 電気・情報系専攻　知能情報工学分野, [計算知能工学研究室](http://www.cs.osakafu-u.ac.jp/ci/EnglishPage/index_e.php)
 * オフィス: 日本大阪府堺市中区学園町1番1号，599-8531
 * 邮箱: yiping0liu [at] gmail.com; yiping.liu [at] cs.osakafu-u.ac.jp
@@ -12,7 +12,7 @@ layout: default
 
 ## 略歴
 
-2018年1月から，日本大阪府立大学にて研究助教 として勤務しています。[石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)と[能島裕介准教授](http://www.cs.osakafu-u.ac.jp/~nojima/)研究室所属です。2012年6月に中国鉱業大学を卒業，2017年12月に中国鉱業大学博士課程を修了しました，博士(学術)を取りました。
+2018年1月から，日本大阪府立大学にて特認助教 として勤務しています。[石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)と[能島裕介准教授](http://www.cs.osakafu-u.ac.jp/~nojima/)研究室所属です。2012年6月に中国鉱業大学を卒業，2017年12月に中国鉱業大学博士課程を修了しました，博士(学術)を取りました。
 
 
 ## 研究の興味
@@ -22,19 +22,22 @@ layout: default
 ## 職歴
 
 * 2018年1月 ~
-  * 研究助教
+  * 特認助教
+  * 日本大阪府立大学
   * 大学院 工学研究科
   * 電気・情報系専攻　知能情報工学分野
-  * 日本大阪府立大学
-  * with [石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)，[能島裕介准教授](http://www.cs.osakafu-u.ac.jp/~nojima/)
 
 ## 学歴
 
-* 2012年9月 ~ 2017年12月
+* 2014年9月 ~ 2017年12月
   * 博士課程 修了
   * 制御理論と制御工学
   * 中国鉱業大学
-  * 博士論文: 高次元多目的進化最適化理論とその方法 (中国語)
+  * 博士論文: 高次元多目的進化最適化理論とその方法
+* 2012年9月 ~ 2014年6月
+  * 硕博连读
+  * 制御理論と制御工学
+  * 中国鉱業大学
 * 2008年9月 ~ 2012年6月
   * 卒業
   * 電気工学と自動化
@@ -48,12 +51,15 @@ layout: default
   * 南方科技大学
   * with [石渕久生教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)
 * 2016年8月 ~ 2017年9月
-  * 客員研究員
+  * 客員研究員 (Joint Ph.D.)
   * Electrical and Computer Engineering
   * Oklahoma State University
   * with [Gary G. Yen教授](http://isc.okstate.edu/)
 
 ## 学会活動歴
+
+* Guest Associate Editor
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
@@ -64,18 +70,14 @@ layout: default
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
   * Soft Computing
+  * International Journal of Bio-Inspired Computation
   * Mathematics and Computers in Simulation
-  * Natural Hazards
   * and more
 
 * Program Committee Member
   * GECCO 2018,2019
   * CEC 2018, 2019
   * AAAI 2019
-
-* Guest Associate Editor
-  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
-
 
 * 所属学会
   * ACM SIGEVO
@@ -117,6 +119,8 @@ layout: default
 
   * Yuyan Han, Junqing Li, **Yiping Liu**, Lili Liu and Zhixin Zheng.  **Migrating Birds Optimization for Lot-streaming flow shop scheduling problem.** Proceedings of IEEE Congress on Evolutionary Computation (CEC 2019). (Accepted)
 
+  * Yusuke Nojima, Takafumi Fukase, **Yiping Liu**, Naoki Masuyama, and Hisao Ishibuchi.  **Constrained Multiobjective Distance Minimization Problems.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2019). (Accepted)
+
 * 2018
 
   * **Yiping Liu**, Hisao Ishibuchi, Yusuke Nojima, Naoki Masuyama and Ke Shang.  **Improving 1by1EA to Handle Various Shapes of Pareto Fronts.** Proceedings of Conference on Parallel Problem Solving from Nature (PPSN 2018), 311-322. (Acceptance Rate: 38.6%) [(pdf)](pdf/1by1EA2.pdf)
@@ -131,4 +135,4 @@ layout: default
 
   * **Yiping Liu**, Dunwei Gong, Xiaoyan Sun, and Yong Zhang. **A reference points-based evolutionary algorithm for many-objective optimization.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2014).
 
-##### Last update: March 15, 2019
+##### Last update: March 25, 2019

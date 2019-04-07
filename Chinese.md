@@ -12,7 +12,7 @@ layout: default
 
 ## 个人简介
 
-目前为日本大阪府立大学研究助理教授。分别于2017年和2012年，获中国矿业大学工学博士和学士学位。2016至2017年，为美国俄克拉荷马州立大学联合培养博士生。
+目前为日本大阪府立大学研究助理教授。分别于2017年和2012年，获中国矿业大学工学博士和学士学位。2016至2017年，为美国俄克拉荷马州立大学访问学者(联合培养博士)。
 
 ## 研究兴趣
 
@@ -24,15 +24,18 @@ layout: default
   * 研究助理教授
   * 大学院 工学研究科 计算机科学与智能系统系
   * 日本大阪府立大学
-  * 合作者：[Hisao Ishibuchi教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)，[Yusuke Nojima副教授](http://www.cs.osakafu-u.ac.jp/~nojima/)
 
 ## 教育背景
 
-* 2012年9月 ~ 2017年12月
+* 2014年9月 ~ 2017年12月
   * 博士
   * 控制理论与控制工程
   * 中国矿业大学
   * 博士论文：高维多目标进化优化理论与方法
+* 2012年9月 ~ 2014年6月
+  * 硕博连读
+  * 控制理论与控制工程
+  * 中国矿业大学
 * 2008年9月 ~ 2012年6月
   * 学士
   * 电气工程及自动化
@@ -46,12 +49,15 @@ layout: default
   * 南方科技大学
   * 合作者：[Hisao Ishibuchi教授](http://www.cs.osakafu-u.ac.jp/~hisaoi/)
 * 2016年8月 ~ 2017年9月
-  * 联合培养博士
+  * 访问学者(联合培养博士)
   * 电气与计算机工程
   * 美国俄克拉荷马州立大学
   * 导师：[Gary G. Yen教授](http://isc.okstate.edu/)
 
 ## 学术兼职
+
+* 客座副编辑
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
 * 期刊审稿人
   * IEEE Transactions on Evolutionary Computation
@@ -62,17 +68,14 @@ layout: default
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
   * Soft Computing
+  * International Journal of Bio-Inspired Computation
   * Mathematics and Computers in Simulation
-  * Natural Hazards
   * and more
 
 * 会议程序成员
   * GECCO 2018,2019
   * CEC 2018, 2019
   * AAAI 2019
-
-* 客座副编辑
-  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
 * 所属学会
   * ACM SIGEVO
@@ -115,6 +118,8 @@ layout: default
 
   * Yuyan Han, Junqing Li, **Yiping Liu**, Lili Liu and Zhixin Zheng.  **Migrating Birds Optimization for Lot-streaming flow shop scheduling problem.** Proceedings of IEEE Congress on Evolutionary Computation (CEC 2019). (录用)
 
+  * Yusuke Nojima, Takafumi Fukase, **Yiping Liu**, Naoki Masuyama, and Hisao Ishibuchi.  **Constrained Multiobjective Distance Minimization Problems.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2019). (录用)
+
 * 2018
 
   * **Yiping Liu**, Hisao Ishibuchi, Yusuke Nojima, Naoki Masuyama and Ke Shang.  **Improving 1by1EA to Handle Various Shapes of Pareto Fronts.** Proceedings of Conference on Parallel Problem Solving from Nature (PPSN 2018), 311-322. (录用率: 38.6%, CCF B类) [(pdf)](pdf/1by1EA2.pdf)
@@ -129,4 +134,4 @@ layout: default
 
   * **Yiping Liu**, Dunwei Gong, Xiaoyan Sun, and Yong Zhang. **A reference points-based evolutionary algorithm for many-objective optimization.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2014). [(pdf)](pdf/p1053.pdf)
 
-##### 最近更新: 2019年3月15日
+##### 最近更新: 2019年3月25日

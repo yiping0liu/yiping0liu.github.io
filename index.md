@@ -14,7 +14,7 @@ Department of Computer Science and Intelligent Systems, Graduate School of Engin
 
 ## Short Biography
 
-I am currently a research assistant professor at Osaka Prefecture University in Japan. Before that, I received the Ph.D. and B.S. degrees in Engineering from China University of Mining and Technology (CUMT) in 2017 and 2012, respectively.
+I am a research assistant professor at Osaka Prefecture University, Japan since 2018 Jan. I was a visiting scholar at Oklahoma State University, USA from 2016 Aug to 2017 Sep. I received Dr.-Ing. and BEng from China University of Mining and Technology in 2017 and 2012, respectively.
 
 ## Research Interest
 
@@ -25,16 +25,20 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 * 2018 Jan ~
   * Research Assistant Professor
   * Department of Computer Science and Intelligent Systems
-  * Graduate School of Engineering, Osaka Prefecture University
-  * with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/) and [Prof. Yusuke Nojima](http://www.cs.osakafu-u.ac.jp/~nojima/)
+  * Graduate School of Engineering
+  * Osaka Prefecture University
 
 ## Education
 
-* 2012 Sep ~ 2017 Dec
+* 2014 Sep ~ 2017 Dec
   * Dr.-Ing.
   * Control Theory and Control Engineering
   * China University of Mining and Technology
-  * Thesis: Many-Objective Evolutionary Optimization: Theory and Method (in Chinese)
+  * Thesis: Many-Objective Evolutionary Optimization: Theory and Method
+* 2012 Sep ~ 2014 Jun
+  * Master-Doctor Successive Program
+  * Control Theory and Control Engineering
+  * China University of Mining and Technology
 * 2008 Sep ~ 2012 Jun
   * BEng
   * Electrical Engineering and Automation
@@ -48,12 +52,15 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
   * Southern University of Science and Technology
   * with [Prof. Hisao Ishibuchi](http://www.cs.osakafu-u.ac.jp/~hisaoi/)
 * 2016 Aug ~ 2017 Sep
-  * Visiting Scholar
-  * Electrical and Computer Engineering
+  * Visiting Scholar (Joint Ph.D.)
+  * School of Electrical and Computer Engineering
   * Oklahoma State University
   * with [Prof. Gary G. Yen](http://isc.okstate.edu/)
 
 ## Professional Activities/Service
+
+* Guest Associate Editor
+  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
 * Reviewer
   * IEEE Transactions on Evolutionary Computation
@@ -64,17 +71,14 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
   * Swarm and Evolutionary Computation
   * Applied Soft Computing
   * Soft Computing
+  * International Journal of Bio-Inspired Computation
   * Mathematics and Computers in Simulation
-  * Natural Hazards
   * and more
 
 * Program Committee Member
   * GECCO 2018,2019
   * CEC 2018, 2019
   * AAAI 2019
-
-* Guest Associate Editor
-  * Special Section on "Evolutionary Computation" of Nonlinear Theory and Its Applications (IEICE)
 
 * Society Member
   * ACM SIGEVO
@@ -116,6 +120,8 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 
   * Yuyan Han, Junqing Li, **Yiping Liu**, Lili Liu and Zhixin Zheng.  **Migrating Birds Optimization for Lot-streaming flow shop scheduling problem.** Proceedings of IEEE Congress on Evolutionary Computation (CEC 2019). (Accepted)
 
+  * Yusuke Nojima, Takafumi Fukase, **Yiping Liu**, Naoki Masuyama, and Hisao Ishibuchi.  **Constrained Multiobjective Distance Minimization Problems.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2019). (Accepted)
+
 * 2018
 
   * **Yiping Liu**, Hisao Ishibuchi, Yusuke Nojima, Naoki Masuyama and Ke Shang.  **Improving 1by1EA to Handle Various Shapes of Pareto Fronts.** Proceedings of Conference on Parallel Problem Solving from Nature (PPSN 2018), 311-322. (Acceptance Rate: 38.6%) [(pdf)](pdf/1by1EA2.pdf)
@@ -130,4 +136,4 @@ Computational Intelligence, Evolutionary Computation, Multi-Objective Optimizati
 
   * **Yiping Liu**, Dunwei Gong, Xiaoyan Sun, and Yong Zhang. **A reference points-based evolutionary algorithm for many-objective optimization.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2014).
 
-##### Last update: March 15, 2019
+##### Last update: March 25, 2019
