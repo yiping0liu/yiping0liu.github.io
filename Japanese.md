@@ -115,7 +115,8 @@ layout: default
 
 * 2019
 
-  * **Yiping Liu**, Hisao Ishibuchi, Yusuke Nojima, Naoki Masuyama and Yuanyan Han.  **Searching for Local Pareto Optimal Solutions: A Case Study on Polygon-Based Problems.** Proceedings of IEEE Congress on Evolutionary Computation (CEC 2019). (Accepted)
+  * **Yiping Liu**, Hisao Ishibuchi, Yusuke Nojima, Naoki Masuyama and Yuanyan Han.  **Searching for Local Pareto Optimal Solutions: A Case Study on Polygon-Based Problems.** Proceedings of IEEE Congress on Evolutionary Computation (CEC 2019). (Accepted) [(pdf)](pdf/DNEAL.pdf)
+    * [source code](https://github.com/yiping0liu/DNEA)
 
   * Yuyan Han, Junqing Li, **Yiping Liu**, Lili Liu and Zhixin Zheng.  **Migrating Birds Optimization for Lot-streaming flow shop scheduling problem.** Proceedings of IEEE Congress on Evolutionary Computation (CEC 2019). (Accepted)
 
@@ -124,8 +125,10 @@ layout: default
 * 2018
 
   * **Yiping Liu**, Hisao Ishibuchi, Yusuke Nojima, Naoki Masuyama and Ke Shang.  **Improving 1by1EA to Handle Various Shapes of Pareto Fronts.** Proceedings of Conference on Parallel Problem Solving from Nature (PPSN 2018), 311-322. (Acceptance Rate: 38.6%) [(pdf)](pdf/1by1EA2.pdf)
+    * [source code](https://github.com/yiping0liu/1by1EA)
 
   * **Yiping Liu**, Hisao Ishibuchi, Yusuke Nojima, Naoki Masuyama and Ke Shang.  **A Double-Niched Evolutionary Algorithm and its Behaviors on Polygon-Based Problems.** Proceedings of Conference on Parallel Problem Solving from Nature (PPSN 2018), 263-273. (Acceptance Rate: 38.6%) [(pdf)](pdf/DNEA.pdf)
+    * [source code](https://github.com/yiping0liu/DNEA)
 
   * Ke Shang, Hisao Ishibuchi, Minling Zhang, and **Yiping Liu**.  **A New R2 Indicator for Better Hypervolume Approximation.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2018), 745-752. (Acceptance Rate: 38%) (Best Paper Award)
 
@@ -135,4 +138,4 @@ layout: default
 
   * **Yiping Liu**, Dunwei Gong, Xiaoyan Sun, and Yong Zhang. **A reference points-based evolutionary algorithm for many-objective optimization.** Proceedings of Conference on Genetic and Evolutionary Computation (GECCO 2014).
 
-##### Last update: March 25, 2019
+##### Last update: May 8, 2019
