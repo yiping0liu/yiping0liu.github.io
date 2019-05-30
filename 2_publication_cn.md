@@ -45,7 +45,7 @@ jpubs:
       volume:  "47"
       number:  "9"
       page:    "2689-2702"
-      doi:     "10.1109/TEVC.2018.2879406"
+      doi:     "10.1109/TCYB.2016.2638902"
       impact:  "SCI, 影响因子: 8.775, 中科院JCR一区, 顶刊"
       pdf:     "/pdf/1by1EA.pdf"
       code:    "https://github.com/yiping0liu/1by1EA"
@@ -177,7 +177,7 @@ cpubs:
       pdf:     "/pdf/DNEA.pdf"
       code:    "https://github.com/yiping0liu/DNEA"
 
-    - title:   "Improving 1by1ea to handle various shapes of Pareto fronts"
+    - title:   "Improving 1by1EA to handle various shapes of Pareto fronts"
       authors:  
         - name: "Yiping Liu"
         - name: "Hisao Ishibuchi"
@@ -260,7 +260,7 @@ cpubs:
     <td>{{pub.year}}</td>
 
     <td>
-    <font color="red"><b>{{pub.title}}</b></font><br />
+    <font color="#922B21"><b>{{pub.title}}</b></font><br />
 
     {% for author in pub.authors  %}
     {% if author.name == "Yiping Liu"%}
@@ -285,9 +285,20 @@ cpubs:
     {% endif %}
     {% if pub.code %}
     <a href="{{pub.code}}">[Code]</a>
-    {% endif %}<br />
+    {% endif %}
+    {% if pub.code%}
+    <br />
+    {% else %}
+    {% if pub.doi%}
+    <br />
+    {% else %}
+    {% if pub.pdf%}
+    <br />
+    {% endif %}
+    {% endif %}
+    {% endif %}
     {% if pub.impact %}
-    {{pub.impact}}<br />
+    <font color="#1F618D">{{pub.impact}}</font>
     {% endif %}
     </td>
   </tr>
@@ -306,7 +317,7 @@ cpubs:
     <td>{{pub.year}}</td>
 
     <td>
-    <font color="red"><b>{{pub.title}}</b></font><br />
+    <font color="#922B21"><b>{{pub.title}}</b></font><br />
 
     {% for author in pub.authors  %}
     {% if author.name == "Yiping Liu" %}
@@ -319,19 +330,27 @@ cpubs:
     {% endif %}
     <br />
     {% if pub.doi %}
-    <a href="https://doi.org/{{pub.doi}}">DOI: {{pub.doi}}</a><br />
-    {% endif %}
-    {% if pub.impact %}
-    Impact Factor: {{pub.impact}}<br />
+    <a href="https://doi.org/{{pub.doi}}">[DOI: {{pub.doi}}]</a>
     {% endif %}
     {% if pub.pdf %}
     <a href="{{pub.pdf}}">[PDF]</a>
     {% endif %}
     {% if pub.code %}
-    <a href="{{pub.code}}">[Code]</a><br />
+    <a href="{{pub.code}}">[Code]</a>
+    {% endif %}
+    {% if pub.code%}
+    <br />
+    {% else %}
+    {% if pub.doi%}
+    <br />
+    {% else %}
+    {% if pub.pdf%}
+    <br />
+    {% endif %}
+    {% endif %}
     {% endif %}
     {% if pub.arate %}
-    {{pub.arate}}<br />
+    <font color="#1F618D">{{pub.arate}}</font>
     {% endif %}
 
     </td>
