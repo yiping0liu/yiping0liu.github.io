@@ -23,11 +23,12 @@ lang: 中文
   * and more
 
 * 会议程序成员
-  * GECCO 2018,2019
+  * GECCO 2018, 2019
   * CEC 2018, 2019
   * AAAI 2019
 
 * 所属学会
   * ACM SIGEVO
   * IEEE CIS
+  * 中国自动化学会
   * 中国人工智能学会

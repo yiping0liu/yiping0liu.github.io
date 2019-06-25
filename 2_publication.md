@@ -7,6 +7,32 @@ lang: English
 
 jpubs:
 
+    - title:   "Adapting reference vectors and scalarizing functions by growing neural gas to handle irregular Pareto fronts"
+      authors:  
+        - name: "Yiping Liu"
+        - name: "Hisao Ishibuchi"
+        - name: "Naoki Masuyama"
+        - name: "Yusuke Nojima"     
+      cauthor:
+      journal: "IEEE Transactions on Evolutionary Computation"
+      year:    "2019"
+      impact:  "8.124"
+      pdf:     " "
+      code:    "https://github.com/yiping0liu/DEA-GNG"
+
+    - title:   "Topological clustering via adaptive resonance theory with information theoretic learning"
+      authors:
+        - name: "Naoki Masuyama"
+        - name: "Chu Kiong Loo"
+        - name: "Hisao Ishibuchi"
+        - name: "Naoyuki Kubota"
+        - name: "Yusuke Nojima"
+        - name: "Yiping Liu"     
+      cauthor:
+      journal: "IEEE Access"
+      year:    "2019"
+      impact:  "3.557"
+
     - title:   "A multi-modal multi-objective evolutionary algorithm using two-archive and recombination strategies"
       authors:  
         - name: "Yiping Liu"
@@ -45,7 +71,7 @@ jpubs:
       volume:  "47"
       number:  "9"
       page:    "2689-2702"
-      doi:     "10.1109/TEVC.2018.2879406"
+      doi:     "10.1109/TCYB.2016.2638902"
       impact:  "8.775"
       pdf:     "/pdf/1by1EA.pdf"
       code:    "https://github.com/yiping0liu/1by1EA"
@@ -176,7 +202,7 @@ cpubs:
       pdf:     "/pdf/DNEA.pdf"
       code:    "https://github.com/yiping0liu/DNEA"
 
-    - title:   "Improving 1by1ea to handle various shapes of Pareto fronts"
+    - title:   "Improving 1by1EA to handle various shapes of Pareto fronts"
       authors:  
         - name: "Yiping Liu"
         - name: "Hisao Ishibuchi"
@@ -256,10 +282,12 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
 
 <table cellpadding="6px">
   <tr valign="top">
-    <td>{{pub.year}}</td>
+    <td>
+    [J{{forloop.index}}]
+    </td>
 
     <td>
-    <font color="red"><b>{{pub.title}}</b></font><br />
+    <font color="#922B21"><b>{{pub.title}}</b></font><br />
 
     {% for author in pub.authors  %}
     {% if author.name == "Yiping Liu" %}
@@ -275,9 +303,6 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
     {{pub.year}} [Accepted].
     {% endif %}
     {% endif %}
-    {% if pub.impact %}
-    (Impact Factor: {{pub.impact}})
-    {% endif %}
     <br />
     {% if pub.doi %}
     <a href="https://doi.org/{{pub.doi}}">[DOI: {{pub.doi}}]</a>
@@ -286,7 +311,21 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
     <a href="{{pub.pdf}}">[PDF]</a>
     {% endif %}
     {% if pub.code %}
-    <a href="{{pub.code}}">[Code]</a><br />
+    <a href="{{pub.code}}">[Code]</a>
+    {% endif %}
+    {% if pub.code%}
+    <br />
+    {% else %}
+    {% if pub.doi%}
+    <br />
+    {% else %}
+    {% if pub.pdf%}
+    <br />
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% if pub.impact %}
+    <font color="#1F618D">Imapct Factor: {{pub.impact}}</font>
     {% endif %}
 
     </td>
@@ -303,10 +342,10 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
 
 <table cellpadding="6px" min_width="800px">
   <tr valign="top">
-    <td>{{pub.year}}</td>
+    <td>[C{{forloop.index}}]</td>
 
     <td>
-    <font color="red"><b>{{pub.title}}</b></font><br />
+    <font color="#922B21"><b>{{pub.title}}</b></font><br />
 
     {% for author in pub.authors  %}
     {% if author.name == "Yiping Liu" %}
@@ -318,23 +357,31 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
     {% else %}
     [in press].
     {% endif %}
-    {% if pub.arate %}
-    (Accpetance Rate: {{pub.arate}})
-    {% endif %}
     <br />
     {% if pub.doi %}
-    <a href="https://doi.org/{{pub.doi}}">DOI: {{pub.doi}}</a><br />
+    <a href="https://doi.org/{{pub.doi}}">[DOI: {{pub.doi}}]</a>
     {% endif %}
-    {% if pub.impact %}
-    Impact Factor: {{pub.impact}}<br />
-    {% endif %}
-
     {% if pub.pdf %}
     <a href="{{pub.pdf}}">[PDF]</a>
     {% endif %}
     {% if pub.code %}
-    <a href="{{pub.code}}">[Code]</a><br />
+    <a href="{{pub.code}}">[Code]</a>
     {% endif %}
+    {% if pub.code%}
+    <br />
+    {% else %}
+    {% if pub.doi%}
+    <br />
+    {% else %}
+    {% if pub.pdf%}
+    <br />
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% if pub.arate %}
+    <font color="#1F618D">Accpetance Rate: {{pub.arate}}</font>
+    {% endif %}
+
 
     </td>
   </tr>

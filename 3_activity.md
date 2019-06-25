@@ -23,11 +23,12 @@ lang: English
   * and more
 
 * Program Committee Member
-  * GECCO 2018,2019
+  * GECCO 2018, 2019
   * CEC 2018, 2019
   * AAAI 2019
 
 * Society Member
   * ACM SIGEVO
   * IEEE CIS
-  * CAAI
+  * Chinese Association of Automation
+  * Chinese Association for Artificial Intelligence
