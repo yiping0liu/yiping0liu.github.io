@@ -366,7 +366,6 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
     {% endif %}
     {% if pub.code %}
     <a href="{{pub.code}}">[Code]</a>
-<<<<<<< HEAD
     {% endif %}
     {% if pub.code%}
     <br />
@@ -379,20 +378,6 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
     {% endif %}
     {% endif %}
     {% endif %}
-=======
-    {% endif %}
-    {% if pub.code%}
-    <br />
-    {% else %}
-    {% if pub.doi%}
-    <br />
-    {% else %}
-    {% if pub.pdf%}
-    <br />
-    {% endif %}
-    {% endif %}
-    {% endif %}
->>>>>>> ab2489a48b67db87e4067272d31a24ceb96bddd2
     {% if pub.arate %}
     <font color="#1F618D">Accpetance Rate: {{pub.arate}}</font>
     {% endif %}
