@@ -30,5 +30,8 @@ lang: English
 * Society Member
   * ACM SIGEVO
   * IEEE CIS
+<<<<<<< HEAD
   * Chinese Association of Automation
+=======
+>>>>>>> ab2489a48b67db87e4067272d31a24ceb96bddd2
   * Chinese Association for Artificial Intelligence
