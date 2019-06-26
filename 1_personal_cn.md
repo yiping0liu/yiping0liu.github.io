@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 学术经历
+title: 研究经历
 ref: personal
 permalink: /personal_cn/
 lang: 中文

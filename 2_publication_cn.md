@@ -16,9 +16,10 @@ jpubs:
       cauthor:
       journal: "IEEE Transactions on Evolutionary Computation"
       year:    "2019"
-      impact:  "SCI, 影响因子: 8.124, 中科院JCR一区, 顶刊"
-      pdf:     " "
+      impact:  "影响因子: 8.508, 中科院SCI一区, 顶刊"
+      pdf:     "/pdf/DEAGNG.pdf"
       code:    "https://github.com/yiping0liu/DEA-GNG"
+      supplement: "/pdf/DEAGNG_supplement.pdf"
 
     - title:   "Topological clustering via adaptive resonance theory with information theoretic learning"
       authors:
@@ -31,7 +32,11 @@ jpubs:
       cauthor:
       journal: "IEEE Access"
       year:    "2019"
-      impact:  "SCI, 影响因子: 3.557, 中科院JCR二区"
+      volume:  "7"
+      number:  "1"
+      page:    "76920-76936"
+      doi:     "10.1109/ACCESS.2019.2921832"
+      impact:  "影响因子: 4.098, 中科院SCI二区"
 
     - title:   "A multi-modal multi-objective evolutionary algorithm using two-archive and recombination strategies"
       authors:  
@@ -42,9 +47,10 @@ jpubs:
       journal: "IEEE Transactions on Evolutionary Computation"
       year:    "2018"
       doi:     "10.1109/TEVC.2018.2879406"
-      impact:  "SCI, 影响因子: 8.124, 中科院JCR一区, 顶刊"
+      impact:  " 影响因子: 8.508, 中科院SCI一区, 顶刊"
       pdf:     "/pdf/TriMOEA-TA&R.pdf"
       code:    "https://github.com/yiping0liu/TriMOEA-TAnR"
+      supplement: "/pdf/TriMOEA-TA&R_supplement.pdf"
 
     - title:   "A meta-objective approach for many-objective evolutionary optimization"
       authors:
@@ -55,9 +61,10 @@ jpubs:
       journal: "Evolutionary Computation"
       year:    "2018"
       doi:     "10.1162/evco_a_00243"
-      impact:  "SCI, 影响因子: 2.388, 中科院JCR二区, 进化计算领域著名期刊"
+      impact:  "影响因子: 3.469, 中科院SCI二区, 进化计算领域著名期刊"
       pdf:     "/pdf/MeO.pdf"
       code:    "https://github.com/yiping0liu/MeO"
+      supplement: "/pdf/MeO_supplement.pdf"
 
     - title:   "A many-objective evolutionary algorithm using a one-by-one selection strategy"
       authors:  
@@ -72,9 +79,10 @@ jpubs:
       number:  "9"
       page:    "2689-2702"
       doi:     "10.1109/TCYB.2016.2638902"
-      impact:  "SCI, 影响因子: 8.775, 中科院JCR一区, 顶刊"
+      impact:  "影响因子: 10.387, 中科院SCI一区, 顶刊"
       pdf:     "/pdf/1by1EA.pdf"
       code:    "https://github.com/yiping0liu/1by1EA"
+      supplement: "/pdf/1by1EA_supplement.pdf"
 
     - title:   "Many-objective evolutionary optimization based on reference points"
       authors:  
@@ -89,7 +97,7 @@ jpubs:
       number:  "1"
       page:    "344-355"
       doi:     "10.1016/j.asoc.2016.11.009"
-      impact:  "SCI, 影响因子: 3.907, 中科院JCR二区"
+      impact:  "影响因子: 4.873, 中科院SCI二区"
       pdf:     "/pdf/RPEA.pdf"
       code:    "https://github.com/yiping0liu/RPEA"
 
@@ -106,7 +114,7 @@ jpubs:
       number:  "6"
       page:    "2219-2232"
       doi:     "10.1007/s00500-015-1637-1"
-      impact:  "SCI, 影响因子: 2.367, 中科院JCR三区"
+      impact:  "影响因子: 2.784, 中科院SCI三区"
 
     - title:   "Evolutionary algorithms with user’s preferences for solving hybrid interval multi-objective optimization problems"
       authors:
@@ -121,7 +129,7 @@ jpubs:
       number:  "3"
       page:    "676-694"
       doi:     "10.1007/s10489-015-0658-x"
-      impact:  "SCI, 影响因子: 1.983, 中科院JCR三区"
+      impact:  "影响因子: 2.882, 中科院SCI三区"
 
     - title:   "基于目标分解的高维多目标并行进化优化方法"
       authors:
@@ -136,7 +144,7 @@ jpubs:
       number:  "8"
       page:    "1438-1451"
       doi:     "10.16383/j.aas.2015.c140832"
-      impact:  "EI, 中文顶级期刊"
+      impact:  "EI, 中文顶刊"
 
 
 cpubs:
@@ -151,6 +159,7 @@ cpubs:
       cauthor:
       conference: "IEEE Congress on Evolutionary Computation"
       year:    "2019"
+      page:    "873-880"
       organization: "IEEE"
       arate:   "录用率: 39% (口头报告)"
       abbr:    "CEC"
@@ -162,11 +171,14 @@ cpubs:
         - name: "Yuyan Han"
         - name: "Junqing Li"
         - name: "Yiping Liu"
-        - name: "Lili Liu"
-        - name: "Zhixin Zheng"      
+        - name: "Zhixin Zheng"
+        - name: "Yuxia Pan"
+        - name: "Hongyan Sang"
+        - name: "Lili Liu"      
       cauthor:
       conference: "IEEE Congress on Evolutionary Computation"
       year:    "2019"
+      page:    "652-657"
       organization: "IEEE"
       arate:   "录用率: 39% (口头报告)"
       abbr:    "CEC"
@@ -312,6 +324,9 @@ cpubs:
     {% if pub.code %}
     <a href="{{pub.code}}">[Code]</a>
     {% endif %}
+    {% if pub.supplement %}
+    <a href="{{pub.supplement}}">[Supplement]</a>
+    {% endif %}
     {% if pub.code%}
     <br />
     {% else %}
@@ -320,6 +335,10 @@ cpubs:
     {% else %}
     {% if pub.pdf%}
     <br />
+    {% else %}
+    {% if pub.supplement%}
+    <br />
+    {% endif %}
     {% endif %}
     {% endif %}
     {% endif %}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 学术活动
+title: 学术兼职
 ref: activities
 permalink: /activities_cn/
 lang: 中文
