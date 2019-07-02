@@ -17,6 +17,7 @@ jpubs:
       journal: "IEEE Transactions on Evolutionary Computation"
       year:    "2019"
       impact:  "影响因子: 8.508, 中科院SCI一区, 顶刊"
+      doi:     "10.1109/TEVC.2019.2926151"
       pdf:     "/pdf/DEAGNG.pdf"
       code:    "https://github.com/yiping0liu/DEA-GNG"
       supplement: "/pdf/DEAGNG_supplement.pdf"
