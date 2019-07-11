@@ -1,10 +1,18 @@
 ---
 layout: page
-title: 研究经历
+title: 个人经历
 ref: personal
 permalink: /personal_cn/
 lang: 中文
 ---
+
+### 获得奖励
+* 2012, 中国矿业大学优秀本科毕业设计  
+* 2016, 入选国家建设高水平大学公派研究生项目
+* 2018, 中国矿业大学优秀博士论文
+* 2018, GECCO (进化计算领域顶会) 最佳论文奖
+* 2019, 入围日本学术振兴会 (JSPS) 卓越研究员项目 (日本国家级青年人才项目)
+
 ### 工作经历
 <table cellpadding="2px">
   <tr>

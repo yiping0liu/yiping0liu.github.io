@@ -5,6 +5,12 @@ ref: personal
 permalink: /personal/
 lang: English
 ---
+### Awards
+* 2012, Excellent Bachelor Thesis of China University of Mining and Technology  
+* 2016, Scholarship of Chinese Government Graduate Student Overseas Study Program
+* 2018, Excellent Doctoral Thesis of China University of Mining and Technology
+* 2018, Best Paper Award from the Conference on Genetic and Evolutionary Computation
+* 2019, Candidate for Leading Initiative for Excellent Young Researchers (LEADER) by Japan Society for the Promotion of Science（JSPS）
 
 ### Work Experience
 <table cellpadding="2px">

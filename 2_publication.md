@@ -285,8 +285,6 @@ Browse publications on <a href="https://scholar.google.com/citations?user=2eX_3X
 Download source codes from <a href="https://github.com/yiping0liu"><U>GitHub</U></a>.<br />
 Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
 
-
-
 ### Refereed Journal Papers
 
 (<img src="/images/mail.png" align="bottom" height="10pxm"> indicates the corresponding author)
