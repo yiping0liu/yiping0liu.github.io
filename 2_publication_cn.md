@@ -12,8 +12,8 @@ jpubs:
         - name: "Yiping Liu"
         - name: "Hisao Ishibuchi"
         - name: "Gary G. Yen"
-        - name: "Naoki Masuyama"
-        - name: "Yusuke Nojima"     
+        - name: "Yusuke Nojima"
+        - name: "Naoki Masuyama"     
       cauthor:
       journal: "IEEE Transactions on Evolutionary Computation"
       year:    "2019"
