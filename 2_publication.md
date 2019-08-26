@@ -7,6 +7,18 @@ lang: English
 
 jpubs:
 
+    - title:   "Handling Imbalance Between Convergence and Diversity in the Decision Space in Evolutionary Multi-Modal Multi-Objective Optimization"
+      authors:  
+        - name: "Yiping Liu"
+        - name: "Hisao Ishibuchi"
+        - name: "Gary G. Yen"
+        - name: "Naoki Masuyama"
+        - name: "Yusuke Nojima"     
+      cauthor:
+      journal: "IEEE Transactions on Evolutionary Computation"
+      year:    "2019"
+      impact:  "8.508"
+
     - title:   "Adapting reference vectors and scalarizing functions by growing neural gas to handle irregular Pareto fronts"
       authors:  
         - name: "Yiping Liu"
@@ -21,6 +33,23 @@ jpubs:
       pdf:     "/pdf/DEAGNG.pdf"
       code:    "https://github.com/yiping0liu/DEA-GNG"
       supplement: "/pdf/DEAGNG_supplement.pdf"
+
+    - title:   "A multi-modal multi-objective evolutionary algorithm using two-archive and recombination strategies"
+      authors:  
+        - name: "Yiping Liu"
+        - name: "Gary G. Yen"
+        - name: "Dunwei Gong"     
+      cauthor:
+      journal: "IEEE Transactions on Evolutionary Computation"
+      year:    "2019"
+      volume:  "23"
+      number:  "4"
+      page:    "660-674"
+      doi:     "10.1109/TEVC.2018.2879406"
+      impact:  "8.508"
+      pdf:     "/pdf/TriMOEA-TA&R.pdf"
+      code:    "https://github.com/yiping0liu/TriMOEA-TAnR"
+      supplement: "/pdf/TriMOEA-TA&R_supplement.pdf"
 
     - title:   "Topological clustering via adaptive resonance theory with information theoretic learning"
       authors:
@@ -38,20 +67,6 @@ jpubs:
       page:    "76920-76936"
       doi:     "10.1109/ACCESS.2019.2921832"
       impact:  "4.098"
-
-    - title:   "A multi-modal multi-objective evolutionary algorithm using two-archive and recombination strategies"
-      authors:  
-        - name: "Yiping Liu"
-        - name: "Gary G. Yen"
-        - name: "Dunwei Gong"     
-      cauthor:
-      journal: "IEEE Transactions on Evolutionary Computation"
-      year:    "2018"
-      doi:     "10.1109/TEVC.2018.2879406"
-      impact:  "8.508"
-      pdf:     "/pdf/TriMOEA-TA&R.pdf"
-      code:    "https://github.com/yiping0liu/TriMOEA-TAnR"
-      supplement: "/pdf/TriMOEA-TA&R_supplement.pdf"
 
     - title:   "A meta-objective approach for many-objective evolutionary optimization"
       authors:
@@ -397,7 +412,7 @@ Download <a href="/pdf/YLiu.bib"><U>BibTex</U></a> for citation.
     {% endif %}
     {% endif %}
     {% if pub.arate %}
-    <font color="#1F618D">Accpetance Rate: {{pub.arate}}</font>
+    <font color="#1F618D">Acceptance Rate: {{pub.arate}}</font>
     {% endif %}
 
 
