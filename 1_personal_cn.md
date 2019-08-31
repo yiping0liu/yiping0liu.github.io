@@ -6,12 +6,6 @@ permalink: /personal_cn/
 lang: 中文
 ---
 
-### 获得奖励
-* 2016, 入选国家建设高水平大学公派研究生项目
-* 2018, 中国矿业大学优秀博士论文
-* 2018, GECCO (进化计算领域顶会) 最佳论文奖
-* 2019, 入围日本学术振兴会 卓越研究员项目 (日本国家级人才项目, 终评结果待定)
-
 ### 工作经历
 <table cellpadding="2px">
   <tr>
@@ -19,8 +13,26 @@ lang: 中文
     <td>
     <b>特聘助理教授</b><br/>
     2018年1月至今<br/>
-    计算机科学与智能系统系<br />
+    计算机科学与智能系统<br />
     大阪府立大学, 日本<br /></td>
+  </tr>
+  <tr>
+    <td width="90px">{% include image.html url="/images/sustech.png" caption="" width="90px"  %}</td>
+    <td>
+    <b>访问学者</b> 合作者: <a href="http://www.cs.osakafu-u.ac.jp/~hisaoi/"><U>Hisao Ishibuchi教授</U> </a><br/>
+    2017年10月 ~ 2017年11月<br/>
+    计算机科学与工程<br />
+    南方科技大学, 中国<br />
+    </td>
+  </tr>
+  <tr>
+    <td width="90px">{% include image.html url="/images/osu.png" caption="" width="90px" bgcolor="rgb(1,1,1)" %}</td>
+    <td>
+    <b>访问学者</b> (联合培养博士) 合作者: <a href="http://isc.okstate.edu/"><U>Gary G. Yen教授</U> </a><br/>
+    2016年8月 ~ 2017年9月<br/>
+    电气与计算机工程<br />
+    俄克拉荷马州立大学, 美国<br />
+    </td>
   </tr>
 </table>
 
@@ -46,24 +58,8 @@ lang: 中文
   </tr>
 </table>
 
-### 访学经历
-<table cellpadding="2px">
-  <tr>
-    <td width="90px">{% include image.html url="/images/sustech.png" caption="" width="90px"  %}</td>
-    <td>
-    <b>访问学者</b> 合作者: <a href="http://www.cs.osakafu-u.ac.jp/~hisaoi/"><U>Hisao Ishibuchi教授</U> </a><br/>
-    2017年10月 ~ 2017年11月<br/>
-    计算机科学与工程<br />
-    南方科技大学, 中国<br />
-    </td>
-  </tr>
-  <tr>
-    <td width="90px">{% include image.html url="/images/osu.png" caption="" width="90px" bgcolor="rgb(1,1,1)" %}</td>
-    <td>
-    <b>联合培养博士</b> (国家公派) 导师: <a href="http://isc.okstate.edu/"><U>Gary G. Yen教授</U> </a><br/>
-    2016年8月 ~ 2017年9月<br/>
-    电气与计算机工程<br />
-    俄克拉荷马州立大学, 美国<br />
-    </td>
-  </tr>
-</table>
+### 获得奖励
+* 2016, 入选国家建设高水平大学公派研究生项目
+* 2018, 中国矿业大学优秀博士论文
+* 2018, GECCO (进化计算领域顶会) 最佳论文奖
+* 2019, 入围日本学术振兴会 卓越研究员项目 (终评结果待定)

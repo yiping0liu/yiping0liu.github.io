@@ -7,7 +7,7 @@ lang: English
 
 jpubs:
 
-    - title:   "Handling Imbalance Between Convergence and Diversity in the Decision Space in Evolutionary Multi-Modal Multi-Objective Optimization"
+    - title:   "Handling imbalance between convergence and diversity in the decision space in evolutionary multi-modal multi-objective optimization"
       authors:  
         - name: "Yiping Liu"
         - name: "Hisao Ishibuchi"
@@ -18,6 +18,10 @@ jpubs:
       journal: "IEEE Transactions on Evolutionary Computation"
       year:    "2019"
       impact:  "8.508"
+      doi:     "10.1109/TEVC.2019.2938557"
+      pdf:     "/pdf/CPDEA.pdf"
+      code:    "https://github.com/yiping0liu/CPDEA"
+      supplement: "/pdf/CPDEA_supplement.pdf"
 
     - title:   "Adapting reference vectors and scalarizing functions by growing neural gas to handle irregular Pareto fronts"
       authors:  
