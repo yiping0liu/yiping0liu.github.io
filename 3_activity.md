@@ -23,8 +23,8 @@ lang: English
   * and more
 
 * Program Committee Member
-  * GECCO 2018, 2019
-  * CEC 2018, 2019
+  * GECCO 2018, 2019,2020
+  * CEC 2018, 2019, 2020
   * AAAI 2019
 
 * Society Member

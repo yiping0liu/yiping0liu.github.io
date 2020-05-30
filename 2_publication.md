@@ -55,6 +55,38 @@ jpubs:
       code:    "https://github.com/yiping0liu/TriMOEA-TAnR"
       supplement: "/pdf/TriMOEA-TA&R_supplement.pdf"
 
+    - title:   "A meta-objective approach for many-objective evolutionary optimization"
+      authors:
+        - name: "Dunwei Gong"
+        - name: "Yiping Liu"
+        - name: "Gary G. Yen"  
+      cauthor: 1
+      journal: "Evolutionary Computation"
+      year:    "2020"
+      volume:  "Spring"
+      page:    "1-25"
+      doi:     "10.1162/evco_a_00243"
+      impact:  "3.469"
+      pdf:     "/pdf/MeO.pdf"
+      code:    "https://github.com/yiping0liu/MeO"
+      supplement: "/pdf/MeO_supplement.pdf"
+
+    - title:   "Discrete evolutionary multi-objective optimization for energy-efficient blocking flow shop scheduling with setup time"
+      authors:
+        - name: "Yuyan Han"
+        - name: "Junqing Li"
+        - name: "Hongyan Sang"
+        - name: "Yiping Liu"
+        - name: "Kaizhou Gao"
+        - name: "Quanke Pan"     
+      cauthor:
+      journal: "Applied Soft Computing"
+      year:    "2020"
+      volume:  "93"
+      page:    "106343"
+      doi:     "10.1016/j.asoc.2020.106343"
+      impact:  "4.873"
+
     - title:   "Topological clustering via adaptive resonance theory with information theoretic learning"
       authors:
         - name: "Naoki Masuyama"
@@ -71,20 +103,6 @@ jpubs:
       page:    "76920-76936"
       doi:     "10.1109/ACCESS.2019.2921832"
       impact:  "4.098"
-
-    - title:   "A meta-objective approach for many-objective evolutionary optimization"
-      authors:
-        - name: "Dunwei Gong"
-        - name: "Yiping Liu"
-        - name: "Gary G. Yen"  
-      cauthor: 1
-      journal: "Evolutionary Computation"
-      year:    "2018"
-      doi:     "10.1162/evco_a_00243"
-      impact:  "3.469"
-      pdf:     "/pdf/MeO.pdf"
-      code:    "https://github.com/yiping0liu/MeO"
-      supplement: "/pdf/MeO_supplement.pdf"
 
     - title:   "A many-objective evolutionary algorithm using a one-by-one selection strategy"
       authors:  
@@ -168,6 +186,34 @@ jpubs:
 
 cpubs:
 
+    - title:   "On the normalization in evolutionary multi-modal multi-objective optimization"
+      authors:  
+        - name: "Yiping Liu"
+        - name: "Hisao Ishibuchi"
+        - name: "Gary Yen"
+        - name: "Yusuke Nojima"
+        - name: "Naoki Masuyama"
+        - name: "Yuyan Han"       
+      cauthor:
+      conference: "IEEE Congress on Evolutionary Computation"
+      year:    "2020"
+      organization: "IEEE"
+      abbr:    "CEC"
+
+    - title:   "Multilayer clustering based on adaptive resonance theory for noisy environments"
+      authors:
+        - name: "Narito Amako"
+        - name: "Naoki Masuyama"
+        - name: "Chu Kiong Loo"
+        - name: "Yusuke Nojima"
+        - name: "Yiping Liu"
+        - name: "Hisao Ishibuchi"       
+      cauthor:
+      conference: "The International Joint Conference on Neural Networks"
+      year:    "2020"
+      organization: "IEEE"
+      abbr:    "IJCNN"
+
     - title:   "Searching for local Pareto optimal solutions: A case study on polygon-based problems"
       authors:  
         - name: "Yiping Liu"
@@ -182,6 +228,7 @@ cpubs:
       organization: "IEEE"
       arate:   "39% for oral presentations"
       abbr:    "CEC"
+      doi:     "10.1109/CEC.2019.8790066"
       pdf:     "/pdf/DNEAL.pdf"
       code:    "https://github.com/yiping0liu/DNEA"
 
@@ -201,6 +248,7 @@ cpubs:
       organization: "IEEE"
       arate:   "39% for oral presentations"
       abbr:    "CEC"
+      doi:     "10.1109/CEC.2019.8790017"
 
     - title:   "Constrained multiobjective distance minimization problems"
       authors:
@@ -212,9 +260,40 @@ cpubs:
       cauthor:
       conference: "The Genetic and Evolutionary Computation Conference"
       year:    "2019"
+      page:    "586-594"
       organization: "ACM"
       arate:   "35%"
       abbr:    "GECCO"
+      doi:     "10.1145/3321707.3321878"
+
+    - title:   "Fast topological adaptive resonance theory based on correntropy induced metric"
+      authors:
+        - name: "Naoki Masuyama"
+        - name: "Narito Amako"
+        - name: "Yusuke Nojima"
+        - name: "Yiping Liu"
+        - name: "Chu Kiong Loo"
+        - name: "Hisao Ishibuchi"      
+      cauthor:
+      conference: "The IEEE Symposium Series on Computational Intelligence"
+      year:    "2019"
+      page:    "2215-2221"
+      organization: "IEEE"
+      abbr:    "SSCI"
+      doi:     "10.1109/SSCI44817.2019.9003098"
+
+    - title:   "Dots-type constrained multiobjective distance minimization problems"
+      authors:
+        - name: "Takafumi Fukase"
+        - name: "Naoki Masuyama"
+        - name: "Yusuke Nojima"
+        - name: "Yiping Liu"
+        - name: "Hisao Ishibuchi"      
+      cauthor:
+      conference: "The International Symposium on Advanced Intelligent Systems and the International Conference on Biometrics and Kansei Engineering"
+      year:    "2019"
+      page:    "51-56"
+      abbr:    "ISIS & ICBAKE"
 
     - title:   "A double-niched evolutionary algorithm and its behavior on polygon-based problems"
       authors:  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal
+title: Biography
 ref: personal
 permalink: /personal/
 lang: English
@@ -9,10 +9,26 @@ lang: English
 ### Work Experience
 <table cellpadding="2px">
   <tr>
+    <td width="90px">{% include image.html url="/images/hnu.png" caption="" width="90px"  %}</td>
+    <td>
+    <b>Associate Professor</b><br/>
+    May 2020 ~ Present<br/>
+    College of Computer Science and Electronic Engineering <br />
+    Hunan University, China<br /></td>
+  </tr>
+  <tr>
+    <td width="90px">{% include image.html url="/images/opu.png" caption="" width="90px"  %}</td>
+    <td>
+    <b>Visiting Researcher</b><br/>
+    April 2020 ~ Present<br/>
+    Department of Computer Science and Intelligent Systems <br />
+    Osaka Prefecture University, Japan<br /></td>
+  </tr>
+  <tr>
     <td width="90px">{% include image.html url="/images/opu.png" caption="" width="90px"  %}</td>
     <td>
     <b>Research Assistant Professor</b><br/>
-    Jan 2018 ~ Present<br/>
+    Jan 2018 ~ March 2020<br/>
     Department of Computer Science and Intelligent Systems <br />
     Osaka Prefecture University, Japan<br /></td>
   </tr>
@@ -62,4 +78,4 @@ lang: English
 * 2016, Scholarship of Chinese Government Graduate Student Overseas Study Program
 * 2018, Excellent Doctoral Thesis of China University of Mining and Technology
 * 2018, Best Paper Award from the Conference on Genetic and Evolutionary Computation
-* 2019, Candidate for Leading Initiative for Excellent Young Researchers (LEADER) by Japan Society for the Promotion of Science (JSPS)
+* 2019, Excellent Doctoral Thesis of Jiangsu Province

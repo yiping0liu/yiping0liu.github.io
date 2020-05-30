@@ -9,10 +9,26 @@ lang: 中文
 ### 工作经历
 <table cellpadding="2px">
   <tr>
+    <td width="90px">{% include image.html url="/images/hnu.png" caption="" width="90px"  %}</td>
+    <td>
+    <b>副教授，岳麓学者</b><br/>
+    2020年5月至今<br/>
+    信息科学与工程学院<br />
+    湖南大学, 中国<br /></td>
+  </tr>
+  <tr>
+    <td width="90px">{% include image.html url="/images/opu.png" caption="" width="90px"  %}</td>
+    <td>
+    <b>客座研究员</b><br/>
+    2020年4月至今<br/>
+    计算机科学与智能系统<br />
+    大阪府立大学, 日本<br /></td>
+  </tr>
+  <tr>
     <td width="90px">{% include image.html url="/images/opu.png" caption="" width="90px"  %}</td>
     <td>
     <b>特聘助理教授</b><br/>
-    2018年1月至今<br/>
+    2018年1月 ~ 2020年3月<br/>
     计算机科学与智能系统<br />
     大阪府立大学, 日本<br /></td>
   </tr>
@@ -62,4 +78,4 @@ lang: 中文
 * 2016, 入选国家建设高水平大学公派研究生项目
 * 2018, 中国矿业大学优秀博士论文
 * 2018, GECCO (进化计算领域顶会) 最佳论文奖
-* 2019, 入围日本学术振兴会 卓越研究员项目 (终评结果待定)
+* 2019, 江苏省优秀博士学位论文
