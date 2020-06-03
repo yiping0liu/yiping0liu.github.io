@@ -16,7 +16,10 @@ jpubs:
         - name: "Naoki Masuyama"     
       cauthor:
       journal: "IEEE Transactions on Evolutionary Computation"
-      year:    "2019"
+      year:    "2020"
+      volume:  "24"
+      number:  "3"
+      page:    "551-565"
       impact:  "8.508"
       doi:     "10.1109/TEVC.2019.2938557"
       pdf:     "/pdf/CPDEA.pdf"
@@ -31,29 +34,15 @@ jpubs:
         - name: "Yusuke Nojima"     
       cauthor:
       journal: "IEEE Transactions on Evolutionary Computation"
-      year:    "2019"
+      year:    "2020"
+      volume:  "24"
+      number:  "3"
+      page:    "439-453"
       impact:  "8.508"
       doi:     "10.1109/TEVC.2019.2926151"
       pdf:     "/pdf/DEAGNG.pdf"
       code:    "https://github.com/yiping0liu/DEA-GNG"
       supplement: "/pdf/DEAGNG_supplement.pdf"
-
-    - title:   "A multi-modal multi-objective evolutionary algorithm using two-archive and recombination strategies"
-      authors:  
-        - name: "Yiping Liu"
-        - name: "Gary G. Yen"
-        - name: "Dunwei Gong"     
-      cauthor:
-      journal: "IEEE Transactions on Evolutionary Computation"
-      year:    "2019"
-      volume:  "23"
-      number:  "4"
-      page:    "660-674"
-      doi:     "10.1109/TEVC.2018.2879406"
-      impact:  "8.508"
-      pdf:     "/pdf/TriMOEA-TA&R.pdf"
-      code:    "https://github.com/yiping0liu/TriMOEA-TAnR"
-      supplement: "/pdf/TriMOEA-TA&R_supplement.pdf"
 
     - title:   "A meta-objective approach for many-objective evolutionary optimization"
       authors:
@@ -86,6 +75,41 @@ jpubs:
       page:    "106343"
       doi:     "10.1016/j.asoc.2020.106343"
       impact:  "4.873"
+
+    - title:   "Meta-heuristic algorithm for solving vehicle routing problems with time windows and synchronized visit constraints in prefabricated systems"
+      authors:
+        - name: "Junqing Li"
+        - name: "Yunqi Han"
+        - name: "Peiyong Duan"
+        - name: "Yuyan Han"
+        - name: "Ben Niu"
+        - name: "Chengdong Li"
+        - name: "Zhixin Zheng"
+        - name: "Yiping Liu"    
+      cauthor:
+      journal: "Journal of Cleaner Production"
+      year:    "2020"
+      volume:  "250"
+      page:    "119464"
+      doi:     "10.1016/j.jclepro.2019.119464"
+      impact:  "6.395"
+
+    - title:   "A multi-modal multi-objective evolutionary algorithm using two-archive and recombination strategies"
+      authors:  
+        - name: "Yiping Liu"
+        - name: "Gary G. Yen"
+        - name: "Dunwei Gong"     
+      cauthor:
+      journal: "IEEE Transactions on Evolutionary Computation"
+      year:    "2019"
+      volume:  "23"
+      number:  "4"
+      page:    "660-674"
+      doi:     "10.1109/TEVC.2018.2879406"
+      impact:  "8.508"
+      pdf:     "/pdf/TriMOEA-TA&R.pdf"
+      code:    "https://github.com/yiping0liu/TriMOEA-TAnR"
+      supplement: "/pdf/TriMOEA-TA&R_supplement.pdf"
 
     - title:   "Topological clustering via adaptive resonance theory with information theoretic learning"
       authors:
