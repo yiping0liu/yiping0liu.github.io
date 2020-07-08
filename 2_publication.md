@@ -20,7 +20,7 @@ jpubs:
       volume:  "24"
       number:  "3"
       page:    "551-565"
-      impact:  "8.508"
+      impact:  "11.169"
       doi:     "10.1109/TEVC.2019.2938557"
       pdf:     "/pdf/CPDEA.pdf"
       code:    "https://github.com/yiping0liu/CPDEA"
@@ -38,7 +38,7 @@ jpubs:
       volume:  "24"
       number:  "3"
       page:    "439-453"
-      impact:  "8.508"
+      impact:  "11.169"
       doi:     "10.1109/TEVC.2019.2926151"
       pdf:     "/pdf/DEAGNG.pdf"
       code:    "https://github.com/yiping0liu/DEA-GNG"
@@ -55,7 +55,7 @@ jpubs:
       volume:  "Spring"
       page:    "1-25"
       doi:     "10.1162/evco_a_00243"
-      impact:  "3.469"
+      impact:  "3.933"
       pdf:     "/pdf/MeO.pdf"
       code:    "https://github.com/yiping0liu/MeO"
       supplement: "/pdf/MeO_supplement.pdf"
@@ -74,7 +74,7 @@ jpubs:
       volume:  "93"
       page:    "106343"
       doi:     "10.1016/j.asoc.2020.106343"
-      impact:  "4.873"
+      impact:  "5.472"
 
     - title:   "Meta-heuristic algorithm for solving vehicle routing problems with time windows and synchronized visit constraints in prefabricated systems"
       authors:
@@ -92,7 +92,7 @@ jpubs:
       volume:  "250"
       page:    "119464"
       doi:     "10.1016/j.jclepro.2019.119464"
-      impact:  "6.395"
+      impact:  "7.246"
 
     - title:   "A multi-modal multi-objective evolutionary algorithm using two-archive and recombination strategies"
       authors:  
@@ -106,7 +106,7 @@ jpubs:
       number:  "4"
       page:    "660-674"
       doi:     "10.1109/TEVC.2018.2879406"
-      impact:  "8.508"
+      impact:  "11.169"
       pdf:     "/pdf/TriMOEA-TA&R.pdf"
       code:    "https://github.com/yiping0liu/TriMOEA-TAnR"
       supplement: "/pdf/TriMOEA-TA&R_supplement.pdf"
@@ -126,7 +126,7 @@ jpubs:
       number:  "1"
       page:    "76920-76936"
       doi:     "10.1109/ACCESS.2019.2921832"
-      impact:  "4.098"
+      impact:  "3.745"
 
     - title:   "A many-objective evolutionary algorithm using a one-by-one selection strategy"
       authors:  
@@ -141,7 +141,7 @@ jpubs:
       number:  "9"
       page:    "2689-2702"
       doi:     "10.1109/TCYB.2016.2638902"
-      impact:  "10.387"
+      impact:  "11.079"
       pdf:     "/pdf/1by1EA.pdf"
       code:    "https://github.com/yiping0liu/1by1EA"
       supplement: "/pdf/1by1EA_supplement.pdf"
@@ -159,7 +159,7 @@ jpubs:
       number:  "1"
       page:    "344-355"
       doi:     "10.1016/j.asoc.2016.11.009"
-      impact:  "4.873"
+      impact:  "5.472"
       pdf:     "/pdf/RPEA.pdf"
       code:    "https://github.com/yiping0liu/RPEA"
 
@@ -176,7 +176,7 @@ jpubs:
       number:  "6"
       page:    "2219-2232"
       doi:     "10.1007/s00500-015-1637-1"
-      impact:  "2.784"
+      impact:  "3.050"
 
     - title:   "Evolutionary algorithms with user’s preferences for solving hybrid interval multi-objective optimization problems"
       authors:
@@ -191,7 +191,7 @@ jpubs:
       number:  "3"
       page:    "676-694"
       doi:     "10.1007/s10489-015-0658-x"
-      impact:  "2.882"
+      impact:  "3.325"
 
     - title:   "Parallel many-objective evolutionary optimization using objectives decomposition"
       authors:
