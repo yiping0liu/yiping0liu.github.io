@@ -448,11 +448,11 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-gitlab',
-        title: 'GitLab',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/yiping0liu", "_blank");
+          window.open("https://github.com/yiping0liu", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -460,6 +460,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=2eX_3XEAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("http://csee.hnu.edu.cn/people/liuyiping", "_blank");
         },
       },{
       id: 'light-theme',
