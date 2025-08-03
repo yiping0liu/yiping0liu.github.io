@@ -1,97 +1,121 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+#- title: General Information
+  #type: map
+  #contents:
+   # - name: Full Name
+   #   value: Albert Einstein
+   # - name: Date of Birth
+   #   value: 14th March 1879
+   # - name: Languages
+   #   value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Control Theory and Control Engineering
+      institution: China University of Mining and Technology, China
+      year: 2012 - 2017
+      
+    - title: Joint Ph.D. in Electrical and Computer Engineering
+      institution: Oklahoma State University, USA
+      year: 2016 - 2017
 
-- title: Experience
+    - title: B.Eng. in Electrical Engineering and Automation
+      institution: China University of Mining and Technology, China
+      year: 2008 - 2012
+
+
+- title: Professional
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Professor
+      institution: Hunan University, China
+      year: 2020 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - College of Computer Science and Electronic Engineering
+    
+    - title: Research Assistant Professor
+      institution: Osaka Prefecture University, Japan
+      year: 2018-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Department of Computer Science and Intelligent Systems
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Grant and Fund
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: NSFC Young Scientists Fund (Category B) 
+      year: 2026 - 2028
+      description: 
+        - formerly the Excellent Young Scientists Fund
+        - PI
+
+    - title: NSFC General Program 
+      year: 2025 - 2028
+      description: 
+        - multi-space-aligned multi-objective intelligent molecule design
+        - PI
+
+    - title: National Key R&D Program of China 
+      year: 2024 - 2026
+      description: 
+          - AI solutions for synthesis and retrosynthesis
+          - PI of sub-project
+
+    - title: NSFC Young Scientists Fund 
+      year: 2022 - 2024
+      description: 
+        - evolutionary algorithms for multi-modal multi-objective combinatorial optimization problems
+        - PI
+
+    - title: Hunan Provincial Excellent Young Scientists Fund 
+      year: 2024 - 2026
+      description: 
+        - multi-objective intelligent optimization
+        - PI
+
+    - title: Hunan Provincial Young Scientists Fund 
+      year: 2021 - 2023
+      description: 
+        - learning-guided multi-modal multi-objective evolutionary algorithms
+        - PI
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Stanford University’s World’s Top 2% Scientists
+
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Second Prize of the Natural Science Award of the Chinese Association of Automation
+
+    - year: 2020
+      items:
+        - First Prize of the Science and Technology Award of the Jiangsu Association of Automation
+
+    - year: 2019
+      items:
+        - Jiangsu Province Excellent Doctoral Dissertation 
+
+    - year: 2018
+      items:
+        - GECCO Best Paper Award 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artifical Intelligence
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Evolutionary computation
+        - Deep Learning
+        - Multi-objective optimization
+        - ...
+    - title: Drug Discovery
       items:
-        - Description 1.
-        - Description 2.
+        - Molecule design
+        - Retrosynthesis
+        - Virtual cell 
+        - ...
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
