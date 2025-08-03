@@ -32,5 +32,3 @@ I am an Associate Professor in the [College of Computer Science and Electronic E
 I received my Ph.D. in 2017 from the [China University of Mining and Technology](https://global.cumt.edu.cn/) and [Oklahoma State University](https://go.okstate.edu/). From 2018 to 2020, I served as an Research Assistant Professor at Osaka Prefecture University (now [Osaka Metropolitan University](https://www.omu.ac.jp/en/)) in Japan, and I joined Hunan University as an Associate Professor in 2020.
 
 My research interests include AI4Science, multi-objective intelligent optimization, and drug discovery. I have published 50+ papers in leading journals and conferences. I have led four national-level projects—including the NSFC Young Scientists Fund (Category B) [formerly the Excellent Young Scientists Fund]—as well as two provincial-level projects. 
-
-E-mail: yiping0liu[at]gmail.com; ypliu[at]hnu.edu.cn

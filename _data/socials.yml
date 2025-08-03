@@ -10,8 +10,8 @@
 # email: you@example.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
-gitlab_username: yiping0liu # your GitLab user name
+github_username: yiping0liu # your GitHub user name
+# gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -47,3 +47,7 @@ scholar_userid: 2eX_3XEAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
+custom_social: # can be any name here other than the ones already defined above
+  logo: hnu.png # can be png, svg, jpg
+  title: 中文主页
+  url: http://csee.hnu.edu.cn/people/liuyiping

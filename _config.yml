@@ -6,7 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yiping
 middle_name:
 last_name: Liu
-contact_note: >
+contact_note: > 
+  Contact me at: yiping0liu [at] gmail [dot] com
   
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
@@ -53,7 +54,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
