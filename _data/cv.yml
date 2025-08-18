@@ -27,12 +27,18 @@
 - title: Professional
   type: time_table
   contents:
-    - title: Associate Professor
+    - title: Professor
       institution: Hunan University, China
-      year: 2020 - Now
+      year: 2025 - Now
       description:
         - College of Computer Science and Electronic Engineering
-    
+
+    - title: Associate Professor
+      institution: Hunan University, China
+      year: 2020 - 2025
+      description:
+        - College of Computer Science and Electronic Engineering  
+
     - title: Research Assistant Professor
       institution: Osaka Prefecture University, Japan
       year: 2018 - 2020
